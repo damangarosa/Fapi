@@ -1,0 +1,104 @@
+{
+    "pessoas": [
+        {
+            "id": 1,
+            "nome": "Henrique",
+            "sobrenome": "Landim",
+            "data_de_nascimento": "2000-07-04",
+            "cores_fav": [
+                "Roxo",
+                "Preto"
+            ],
+            "musicas_fav": [
+                "Morena Tropicana - Alceu Valença",
+                "The End - The Doors",
+                "Sujeito de Sorte - Belchior",
+                "All My love - Led Zepplin",
+                "On the Turning Away - Pink Floyd"
+            ],
+            "filmes_fav": [
+                "Green Book",
+                "Bastardos Inglórios",
+                "Coração de Ferro",
+                "Jadotville",
+                "Django Livre"
+            ],
+            "series_fav": [
+                "The Office",
+                "How I Meet Your Mother",
+                "Friends",
+                "Breaking Bad",
+                "Stranger Things"
+            ],
+            "comidas_fav": [
+                "Frango Frito",
+                "Pizza",
+                "Hamburguer"
+            ],
+            "hobbies": [
+                "Fazer e Comer Hamburguers",
+                "Carros",
+                "Assistir Sitcom's"
+            ],
+            "formacao":[
+                "Técnico em informática - Senac",
+                "Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia"
+            ],
+            "experiencia": [
+                "Desenvolvedor Web - Yesh",
+                "Desenvolvedor FullStack - Abertura Simples",
+                "Desenvolvedor .Net - Webmotors"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Henrique",
+            "sobrenome": "Landim Pinheiro",
+            "data_de_nascimento": "2000-07-04",
+            "cores_fav": [
+                "Roxo",
+                "Preto"
+            ],
+            "musicas_fav": [
+                "Morena Tropicana - Alceu Valença",
+                "The End - The Doors",
+                "Sujeito de Sorte - Belchior",
+                "All My love - Led Zepplin",
+                "On the Turning Away - Pink Floyd"
+            ],
+            "filmes_fav": [
+                "Green Book",
+                "Bastardos Inglórios",
+                "Coração de Ferro",
+                "Jadotville",
+                "Django Livre"
+            ],
+            "series_fav": [
+                "The Office",
+                "How I Meet Your Mother",
+                "Friends",
+                "Breaking Bad",
+                "Stranger Things"
+            ],
+            "comidas_fav": [
+                "Frango Frito",
+                "Pizza",
+                "Hamburguer"
+            ],
+            "hobbies": [
+                "Fazer e Comer Hamburguers",
+                "Carros",
+                "Assistir Sitcom's"
+            ],
+            "formacao":[
+                "Técnico em informática - Senac",
+                "Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia"
+            ],
+            "experiencia": [
+                "Desenvolvedor Web - Yesh",
+                "Desenvolvedor FullStack - Abertura Simples",
+                "Desenvolvedor .Net - Webmotors"
+            ]
+        }
+    ]
+}
